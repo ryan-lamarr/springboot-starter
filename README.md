@@ -3,4 +3,4 @@
 
 1. 安装jdk
 2. 安装maven
-3. 
+3. 安装mysql
