@@ -8,7 +8,7 @@
 
 
 
-### Maven安装与配置
+### Maven安装与配置（Windows环境）
 - 解压maven到自定义目录
 - 配置环境变量  
   添加环境变量MAVEN_HOME: D:\Toolkit\apache-maven-3.8.6  
