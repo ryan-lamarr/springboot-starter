@@ -13,15 +13,15 @@
 - 配置环境变量  
   添加环境变量MAVEN_HOME: D:\Toolkit\apache-maven-3.8.6  
   在系统Path中配置maven的bin文件夹路径：%MAVEN_HOME%\bin
-附：linux
+### 附：linux环境maven安装
 解压maven的.tar文件  
 ```
-tar -xvf  apache-maven-3.8.6-bin.tar.gz
+# tar -xvf  apache-maven-3.8.6-bin.tar.gz
 # sudo mv -f apache-maven-3.8.6 /usr/local/
 ```
 设置linux环境变量，编辑 /etc/profile 文件  
 ```
-> sudo vim /etc/profile
+# sudo vim /etc/profile
 ```  
 在文件末尾添加如下代码：  
 ```
